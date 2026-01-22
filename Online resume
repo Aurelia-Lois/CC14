@@ -1,0 +1,102 @@
+<!-- Angwani, Aurelia Lois M.
+    24-0915-724 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+<body>
+
+    <h1>My Resume</h1>
+    <h2>Angwani, Aurelia Lois M.</h2>
+
+    <img src="./Profile Pic.jpg" alt="Photo of Aurelia" width="150">
+
+    <p>
+        <a href="index.html">Home</a> | 
+        <a href="hobbies.html">Hobbies</a> | 
+    </p>
+
+    <hr>
+
+    <h3>Summary:</h3>
+    <p>
+        Aspiring BSIT student that wants to learn and improve more skills in programming.
+    </p>
+
+    <h3>Education:</h3>
+    <ul>
+        <li><b>BS In Information Technology</b> - Current University (2024 - Present)</li>
+        <li><b>High School </b> - Your School Name (2018 - 2024)</li>
+    </ul>
+
+
+    <h3>Skills:</h3>
+    <ul>
+        <li>Basic HTML structure</li>
+        <li>Basic ERP Configuration </li>
+        <li>Time Management</li>
+    </ul>
+
+    <h3>Awards and Certifications:</h3>
+    <ul>
+        <li>GDG Certificate of Participation (2024)</li>
+        <li>Simplilearn, SkillUp (FBPM) Certificate (2025)</li>
+    </ul>
+
+    <hr>
+
+    <footer>
+        <p>Angwani, Aurelia Lois M. &copy; 2026 | Student ID: 24-0915-724</p>
+    </footer>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<!-- Angwani, Aurelia Lois M.
+    24-0915-724 -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Hobbies</title>
+</head>
+<body>
+    <h1>My Hobbies</h1>
+    
+    <p><a href="./index.html">Back to Resume</a></p>
+    
+    <hr>
+
+    <ul>
+        <li>Watching Anime and Chinese Drama</li>
+        <li>Listening to music</li>
+        <li>Playing Games</li>
+        
+    </ul>
+
+    <head>
+    <title>Contact Me</title>
+</head>
+<body>
+    <h1>Contact Details</h1>
+    
+    <p><strong>Gmail:</strong> eloiswaninga261@gmail.com</p>
+    <p><strong>Outlook Email:</strong> ama5724@students.uc-bcf.edu.ph</p>
+    <p><strong>Location:</strong> Baguio City, Philippines</p>
+
+    <footer>
+        <p>Angwani, Aurelia Lois M. &copy; 2026 | Student ID: 24-0915-724</p>
+    </footer>
+</body>
+</html>
